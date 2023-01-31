@@ -1,6 +1,6 @@
 # Wallet
 
-##The product of this application is called Trybe Wallet and was developed in the course of Trybe.
+## The product of this application is called Trybe Wallet and was developed in the course of Trybe.
 
 # Project TrybeWallet! 🪙​💸​
 In this project, an expense control wallet with a currency converter was developed. By using this application the user can:
